@@ -2,6 +2,12 @@
 
 面向机械安装现场学习的中英双语阀门图鉴。React + Vite，纯前端运行，无需账户、数据库或 API 密钥。
 
+## 直接下载使用（无需安装）
+
+**[下载离线学习系统 ZIP](https://github.com/p66482236-jpg/pasta/raw/refs/heads/main/downloads/valve-atlas-offline.zip)**
+
+下载后解压，用 Chrome 或 Edge 打开解压目录里的 `index.html`。无需运行开发命令，也不需要网络。如果直接下载未启动，请打开[安装包文件页面](https://github.com/p66482236-jpg/pasta/blob/main/downloads/valve-atlas-offline.zip)，点击 **Download raw file**（向下箭头）。私有仓库需要先登录有访问权限的 GitHub 账户。
+
 ## 使用
 
 ```sh
